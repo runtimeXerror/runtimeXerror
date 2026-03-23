@@ -4,7 +4,7 @@
 
 <h2 align="center">Aspiring AI/ML Engineer👨‍💻</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thecuriousvishal&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=runtimeXerror&style=flat-square)
 
 Currently pursuing a Bachelor's degree in Computer Science and Engineering at RRSDCE Begusarai,Bihar [Govt. Engineering College].
 
@@ -39,13 +39,13 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ### 📊 GitHub Stats
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecuriousvishal&show_icons=true&theme=radical)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimeXerror&show_icons=true&theme=radical)
 
 ---
 
 ### 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=thecuriousvishal&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=runtimeXerror&theme=onedark)
 
 ---
 
