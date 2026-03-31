@@ -1,66 +1,158 @@
+<h1 align="center">Hey, I'm Vishal 👋</h1>
 
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Builder</h3>
 
-<h1 align="center">Heyy I'm Vishal ! 👋</h1>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=runtimeXerror&style=for-the-badge&color=0e75b6)
 
-<h2 align="center">Aspiring AI/ML Engineer👨‍💻</h2>
-
-![Profile Views](https://komarev.com/ghpvc/?username=runtimeXerror&style=flat-square)
-
-Currently pursuing a Bachelor's degree in Computer Science and Engineering at RRSDCE Begusarai,Bihar [Govt. Engineering College].
-
-## About Me
-
-I'm a tech enthusiast who Love to take a new challenges and Learn new skill in life. I'm passionate about technology drives me to constantly push the boundaries of my comfort zone and acquire new skills.
-
-## My Interests
-
-- **Web Development**: I am a dedicated web developer with a knack for creating dynamic and user-friendly web applications.
-- **Artificial Intelligence**: The exciting world of AI fascinates me, and I am always eager to explore its endless possibilities.
-- **Blockchain Technology**: My curiosity extends to blockchain, where I delve into the intricacies of decentralized systems and smart contracts.
-
-## Let's Connect!
-
-Join me on my journey of learning and innovation. Together, we can explore the future of technology and make incredible strides. 🚀
-
-Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/thecuriousvishal/) or check out my projects here on GitHub!
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+🎓 **B.Tech CSE @ RRSDCE Begusarai (2023–2027)**  
+💡 Passionate about AI, Full Stack Development & Real-World Problem Solving  
+🏆 **Top 15 Finalist - Cyber Hackathon 2025**  
+🔥 Building impactful AI systems & scalable applications  
 
----
-
-### 📊 GitHub Stats
-
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=runtimeXerror&show_icons=true&theme=radical)
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🧠 About Me
 
-![trophy](https://github-profile-trophy.vercel.app/?username=runtimeXerror&theme=onedark)
+- 💻 Full Stack Developer (MERN + FastAPI)
+- 🤖 AI/ML Enthusiast working on real-world projects
+- 🚀 Hackathon Builder & Problem Solver
+- 📈 Constantly learning & improving (DSA + AI + System Design)
 
----
-
-### 🔗 My Projects
-
-- [Project 1](https://huggingface.co/spaces/curiousvishal/NeuroAI)
-- [Project 2](https://github.com/thecuriousvishal/project2)
-
-Feel free to explore and contribute!
+> *"I believe in building things that actually solve real problems."*
 
 ---
 
-### 📫 How to reach me
+## 🌐 Connect With Me
 
-- LinkedIn: [Vishal Kumar](https://www.linkedin.com/in/thecuriousvishal/)
-- Email: thecuriousvishal@gmail.com
+<div align="center">
 
-Let's connect and explore the future together! 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thecuriousvishal/)
+[![GitHub](https://img.shields.io/badge/GitHub-runtimeXerror-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/runtimeXerror)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thecuriousvishal@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
+![HuggingFace](https://img.shields.io/badge/-Transformers-FFD700?style=for-the-badge&logo=huggingface)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 **TrustDesk – AI Complaint Intelligence System**
+- Built full-stack system using **FastAPI + React**
+- Integrated **GenAI + NLP pipeline**
+- Real-time complaint classification & response generation
+- Automated SLA tracking & RBI-compliant responses
+
+---
+
+### 🔍 **FactShadow – Fake News Detection System**
+- 🏆 Top 15 Finalist (302+ teams)
+- Chrome Extension for real-time fake news detection
+- Used **TF-IDF, XGBoost, SBERT, VADER**
+- Generated dynamic **Trust Score (0–100)**
+
+---
+
+### 🧠 **NeuroAI – Brain Disorder Detection**
+- CNN models for detecting:
+  - Alzheimer’s
+  - Brain Tumor
+  - Stroke
+- Built using **PyTorch + OpenCV**
+- Deployed using **Gradio**
+
+---
+
+### 🏫 **No-Dues Clearance System**
+- Full-stack system for college administration
+- Role-based approval system
+- Replaced manual process with digital dashboard
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=runtimeXerror&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://streak-stats.demolab.com/?user=runtimeXerror&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Top 15 Finalist – Cyber Hackathon 2025
+- 🥇 1st Prize – District Science Competition
+- ⭐ 5★ HackerRank (Problem Solving)
+- 💻 GDG Patna – Technical Team (Frontend Developer)
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Mastering **AI/ML + GenAI**
+- 💻 Improving **DSA & System Design**
+- 📱 Building **real-world scalable products**
+- 🎯 Target: **Top Tech Company (Google / MAANG)**
+
+---
+
+## 🤝 Let's Collaborate
+
+I’m open to:
+- AI/ML Projects 🤖
+- Full Stack Development 🌐
+- Hackathons 🏆
+- Startup Ideas 🚀
+
+> **Let’s build something impactful together!**
+
+---
+
+<div align="center">
+
+⭐ If you like my work, consider giving a star!  
+🔥 Always learning. Always building.
+
+</div>
