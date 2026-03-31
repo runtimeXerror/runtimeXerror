@@ -1,25 +1,25 @@
-<h1 align="center">Hey, I'm Vishal 👋</h1>
-
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Builder</h3>
+<h1 align="center">Hey 👋 I'm Vishal</h1>
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=runtimeXerror&style=for-the-badge&color=0e75b6)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+AI%2FML+Engineer;💻+Full+Stack+Developer+(MERN+%2B+FastAPI);🏆+Cyber+Hackathon+Finalist;🔥+Building+Real-World+AI+Projects" />
 </div>
 
 ---
 
 <div align="center">
 
-🎓 **B.Tech CSE @ RRSDCE Begusarai (2023–2027)**  
-💡 Passionate about AI, Full Stack Development & Real-World Problem Solving  
-🏆 **Top 15 Finalist - Cyber Hackathon 2025**  
-🔥 Building impactful AI systems & scalable applications  
+![Profile Views](https://komarev.com/ghpvc/?username=runtimeXerror&style=for-the-badge&color=00F7FF)
+![GitHub followers](https://img.shields.io/github/followers/runtimeXerror?style=for-the-badge&color=00F7FF)
 
 </div>
 
 ---
+
+## 🧠 About Me
++ 🎓 B.Tech CSE @ RRSDCE Begusarai (2023–2027)
++ 🤖 AI/ML Enthusiast | Full Stack Developer
++ 🏆 Top 15 Finalist – Cyber Hackathon 2025
++ 💡 Passionate about building real-world impactful systems
 
 ## 🧠 About Me
 
