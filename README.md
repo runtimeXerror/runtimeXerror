@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Vishal</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=🚀+Aspiring+AI%2FML+Engineer;💻+Full+Stack+Developer+(MERN+%2B+FastAPI);🏆+Cyber+Hackathon+Finalist;🔥+Building+Real-World+AI+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=+Aspiring+AI%2FML+Engineer;💻+Full+Stack+Developer+(MERN+%2B+FastAPI);🏆+Cyber+Hackathon+Finalist;+Building+Real-World+AI+Projects" />
 </div>
 
 ---
