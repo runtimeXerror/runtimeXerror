@@ -16,7 +16,7 @@
 ---
 
 ## 🧠 About Me
-+ 🎓 B.Tech CSE @ RRSDCE Begusarai (2023–2027)
++ 🎓 B.Tech CSE @ RRSDCE Begusarai (2023–27)
 + 🤖 AI/ML Enthusiast | Full Stack Developer
 + 🏆 Top 15 Finalist – Cyber Hackathon 2025
 + 💡 Passionate about building real-world impactful systems
